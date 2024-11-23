@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18116" start="node1" appversion="6.1.15">
+  <panorama hideabout="1" id="node1">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-14.7799">
+      <start pan="170.816" tilt="-18.2464" fov="73.8792" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:32" nodeid="node1" author="" copyright="" comment="" heading="-14.7799" description="" source="" info="" customnodeid="" title="Başkan Odası" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-4.6576">
+      <start pan="1.31509" tilt="-16.669" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:34" nodeid="node2" author="" copyright="" comment="" heading="-4.6576" description="" source="" info="" customnodeid="" title="Koridor" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node5}" pan="-224.62" target="" description="" tilt="-54.87" title="" id="Point02" skinid="ht_node"/>
+      <hotspot url="{node6}" pan="-196.86" target="" description="" tilt="-29.51" title="" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="246.347">
+      <start pan="-1.44351" tilt="-27.553" fov="76.9105" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:38" nodeid="node3" author="" copyright="" comment="" heading="246.347" description="" source="" info="" customnodeid="" title="Sekreterya" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-17.4559">
+      <start pan="82.4306" tilt="-8.45321" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:43" nodeid="node4" author="" copyright="" comment="" heading="-17.4559" description="" source="" info="" customnodeid="" title="Eğitim Salonu" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-109.936">
+      <start pan="91.5794" tilt="-11.7586" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:45" nodeid="node5" author="" copyright="" comment="" heading="-109.936" description="" source="" info="" customnodeid="" title="Tuvalet" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="69.288">
+      <start pan="-63.4573" tilt="-16.9647" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:48" nodeid="node6" author="" copyright="" comment="" heading="69.288" description="" source="" info="" customnodeid="" title="Mutfak" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-16.6977">
+      <start pan="-91.5425" tilt="-7.63164" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_in" datetime="10.10.2022 11:53" nodeid="node7" author="" copyright="" comment="" heading="-16.6977" description="" source="" info="" customnodeid="" title="Giriş" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="" pan="-215.9" target="" description="" tilt="-33.26" title="" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node4}" pan="-281.88" target="" description="" tilt="-34.73" title="" id="Point02" skinid="ht_node"/>
+      <hotspot url="{node3}" pan="-306.11" target="" description="" tilt="-39.1" title="" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="155.804">
+      <start pan="-18.0934" tilt="-98.8832" fov="77.005" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_out" altitude="1040.97" datetime="2.10.2022 18:43" nodeid="node8" author="" copyright="" comment="" heading="155.804" description="" source="" info="" customnodeid="" title="Havadan" longitude="34.006293" latitude="38.263317"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node21}" pan="-11.07" distance="481.639" target="" description="" tilt="-9.2" title="MRA Mühendislik" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node22}" pan="-26.13" distance="449.66" target="" description="" tilt="-8.97" title="Erkan Özen Geri Dönüşüm" id="Point02" skinid="ht_node"/>
+      <hotspot url="{node19}" pan="-22.07" distance="560.881" target="" description="" tilt="-7.84" title="Baydemir" id="Point03" skinid="ht_node"/>
+      <hotspot url="{node20}" pan="-169.9" distance="68.3421" target="" description="" tilt="-25.44" title="A Firma" id="Point04" skinid="ht_node"/>
+      <hotspot url="{node18}" pan="-138.16" distance="415.314" target="" description="" tilt="-2.92" title="C Firma" id="Point05" skinid="ht_node"/>
+      <hotspot url="{node17}" pan="-123.84" distance="373.974" target="" description="" tilt="-4.21" title="D Firma" id="Point06" skinid="ht_node"/>
+      <hotspot url="{node16}" pan="-131.85" distance="256.215" target="" description="" tilt="-6.44" title="E Firma" id="Point07" skinid="ht_node"/>
+      <hotspot url="{node14}" pan="-146.52" distance="172.884" target="" description="" tilt="-13.76" title="F Firma" id="Point08" skinid="ht_node"/>
+      <hotspot url="{node13}" pan="-172.23" distance="210.991" target="" description="" tilt="-6.45" title="G Firma" id="Point09" skinid="ht_node"/>
+      <hotspot url="{node9}" pan="-237.78" target="" description="" tilt="-81.31" title="Ön Bahçe" id="Point10" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-176.204">
+      <start pan="-47.6747" tilt="-5.98631" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_out" datetime="10.10.2022 11:55" nodeid="node9" author="" copyright="" comment="" heading="-176.204" description="" source="" info="" customnodeid="" title="Ön Bahçe" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-25.88" target="" description="" tilt="26.9" title="Havadan" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node10}" pan="-146.51" target="" description="" tilt="-8.1" title="Yan Bahçe" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-166.498">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_out" datetime="10.10.2022 11:57" nodeid="node10" author="" copyright="" comment="" heading="-166.498" description="" source="" info="" customnodeid="" title="Yan Bahçe" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-329.73" target="" description="" tilt="11.97" title="Havadan" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node9}" pan="-309.17" target="" description="" tilt="-7.27" title="Ön Bahçe" id="Point02" skinid="ht_node"/>
+      <hotspot url="{node11}" pan="-60.81" target="" description="" tilt="-8.61" title="Arka Bahçe" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input overlap="1" leveltilesize="510" width="1824" levelbiashidpi="1.000" levelingroll="0" height="1824" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="1824" height="1824" predecode="0" preload="0"/>
+      <level width="912" height="912" predecode="0" preload="0"/>
+      <level width="456" height="456" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="102.33">
+      <start pan="34.374" tilt="1.84918" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osiad_out" datetime="10.10.2022 11:59" nodeid="node11" author="" copyright="" comment="" heading="102.33" description="" source="" info="" customnodeid="" title="Arka Bahçe" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-275.41" target="" description="" tilt="17.09" title="Havadan" id="Point01" skinid="ht_node"/>
+      <hotspot url="{node10}" pan="-252.91" target="" description="" tilt="-8.02" title="Yan Bahçe" id="Point02" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="175.322">
+      <start pan="-1.37856" tilt="-84.9104" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1019.01" datetime="10.10.2022 16:44" nodeid="node19" author="" copyright="" comment="" heading="175.322" description="" source="" info="" customnodeid="" title="Baydemir" longitude="34.008314" latitude="38.258529"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-185.06" distance="560.881" target="" description="" tilt="-12.02" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node20">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-7.39047">
+      <start pan="-0.123425" tilt="-85.9777" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="997.24" datetime="10.10.2022 16:15" nodeid="node20" author="" copyright="" comment="" heading="-7.39047" description="" source="" info="" customnodeid="" title="A Firma" longitude="34.005654" latitude="38.263672"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-150.88" distance="68.3421" target="" description="" tilt="-56.88" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-3.19275">
+      <start pan="1.39858" tilt="-87.055" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1007.90" datetime="10.10.2022 17:31" nodeid="node18" author="" copyright="" comment="" heading="-3.19275" description="" source="" info="" customnodeid="" title="C Firma" longitude="34.001554" latitude="38.263641"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-118.42" distance="415.314" target="" description="" tilt="-14.32" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="1.75506">
+      <start pan="1.68123" tilt="-94.8808" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1007.80" datetime="10.10.2022 17:32" nodeid="node17" author="" copyright="" comment="" heading="1.75506" description="" source="" info="" customnodeid="" title="D Firma" longitude="34.002057" latitude="38.262818"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-104.67" distance="373.974" target="" description="" tilt="-15.33" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="359.267">
+      <start pan="2.73117" tilt="-83.5012" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1007.80" datetime="10.10.2022 17:34" nodeid="node16" author="" copyright="" comment="" heading="359.267" description="" source="" info="" customnodeid="" title="E Firma" longitude="34.003369" latitude="38.263121"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-106.65" distance="256.215" target="" description="" tilt="-23" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="352.587">
+      <start pan="1.7871" tilt="-90.6779" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1007.80" datetime="10.10.2022 17:35" nodeid="node14" author="" copyright="" comment="" heading="352.587" description="" source="" info="" customnodeid="" title="F Firma" longitude="34.004324" latitude="38.263482"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-117.92" distance="172.884" target="" description="" tilt="-32.53" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="352.277">
+      <start pan="1.53364" tilt="-82.9026" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1031.50" datetime="10.10.2022 17:37" nodeid="node13" author="" copyright="" comment="" heading="352.277" description="" source="" info="" customnodeid="" title="G Firma" longitude="34.004441" latitude="38.264536"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-152.22" distance="210.991" target="" description="" tilt="-32.03" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1068.36" datetime="27.9.2022 19:00" nodeid="node21" author="" copyright="" comment="" heading="0" description="" source="" info="" customnodeid="" title="MRA Mühendislik" longitude="34.009138" latitude="38.259606"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-358.51" distance="481.639" target="" description="" tilt="-12.33" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node22">
+    <input overlap="1" leveltilesize="510" width="2048" levelbiashidpi="1.000" levelingroll="0" height="2048" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="84.6472">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" fov="120" scaletofit="1"/>
+    </view>
+    <userdata tags="osb_out" altitude="1093.06" datetime="27.9.2022 19:05" nodeid="node22" author="" copyright="" comment="" heading="84.6472" description="" source="" info="" customnodeid="" title="Erkan Özen Geri Dönüşüm " longitude="34.007753" latitude="38.259439"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" background="1" width="180" borderalpha="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node8}" pan="-274.76" distance="449.66" target="" description="" tilt="-15.98" title="OSİAD" id="Point01" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" softedge="0" blendtime="1" enabled="1" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomafterinfov="90"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" invertwheel="0" lockedwheel="0" contextfullscreen="0" simulatemass="1" sensitivity="8" lockedkeyboard="0" hideabout="1" lockedmouse="0" contextprojections="0" rubberband="0" speedwheel="1" dblclickfullscreen="0" contextvr="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" datetime="" nodeid="master" author="" copyright="" comment="" heading="0" description="" source="" info="" customnodeid="" title="" longitude="" latitude=""/>
+  </masternode>
+</tour>
