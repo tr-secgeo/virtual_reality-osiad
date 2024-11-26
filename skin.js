@@ -1,7 +1,4 @@
-// Garden Gnome Software - Skin
-// Pano2VR 6.1.15/18116
-// Filename: 3D_katplan_menu.ggsk
-// Generated 2022-10-17T05:21:26
+
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_floorplan', 2, false);
